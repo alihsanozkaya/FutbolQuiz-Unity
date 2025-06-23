@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cebe92d89714ab4448a6e74c412c7a5a, type: 3}
+  m_Name: 07_Question_Mbappe
+  m_EditorClassIdentifier: 
+  answer: mbappe
+  display_answer: Kylian Mbappe
+  hints:
+  - "Monaco\u2019da forma giydi\u011Fi d\xF6nemde b\xFCy\xFCk kul\xFCplerin radar\u0131na
+    girdi."
+  - "2018 D\xFCnya Kupas\u0131\u2019n\u0131 kazand\u0131."
+  - "PSG\u2019de y\u0131ld\u0131zla\u015Fan Frans\u0131z futbolcu."

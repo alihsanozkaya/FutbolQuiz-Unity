@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cebe92d89714ab4448a6e74c412c7a5a, type: 3}
+  m_Name: 01_Question_ArdaGuler
+  m_EditorClassIdentifier: 
+  answer: ardaguler
+  display_answer: "Arda G\xFCler"
+  hints:
+  - "2023 U21 Avrupa \u015Eampiyonas\u0131'nda dikkat \xE7eken performans\u0131yla
+    \xF6ne \xE7\u0131kt\u0131."
+  - "Fenerbah\xE7e altyap\u0131s\u0131ndan yeti\u015Fmi\u015Ftir."
+  - "Real Madrid'de oynayan gen\xE7 T\xFCrk futbolcudur."

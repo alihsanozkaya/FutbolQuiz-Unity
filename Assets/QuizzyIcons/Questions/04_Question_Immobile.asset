@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cebe92d89714ab4448a6e74c412c7a5a, type: 3}
+  m_Name: 04_Question_Immobile
+  m_EditorClassIdentifier: 
+  answer: immobile
+  display_answer: Ciro Immobile
+  hints:
+  - "Torino'da gol kral\u0131 olduktan sonra Dortmund'a transfer olmu\u015F ama tutunamam\u0131\u015Ft\u0131r."
+  - "2020 Avrupa \u015Eampiyonas\u0131\u2019n\u0131 kazanan kadroda yer ald\u0131."
+  - "Be\u015Fikta\u015F'\u2019\u0131n golc\xFC \u0130talyan forveti."
